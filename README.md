@@ -21,7 +21,7 @@ A desktop weather application built with **PyQt5**, designed to provide real-tim
 
 ## Screenshots
 
-> *Add screenshots here to showcase your app’s interface and functionality.*
+>![Screenshot 2025-01-26 182538](https://github.com/user-attachments/assets/34926f82-0be5-44b5-98e0-174230b7a657)
 
 ---
 
@@ -135,6 +135,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-**Your Name**  
-GitHub: [yourusername](https://github.com/yourusername)
+Vaibhav R Patil  
+GitHub: (https://github.com/vaibhav88614)
 
