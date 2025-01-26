@@ -1,5 +1,7 @@
 # Weather App 🌤️
 Link to Download Exe :- https://github.com/vaibhav88614/Weather_App/releases/download/WeatherApp/main.exe
+
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python&logoColor=white)  
 ![PyQt5](https://img.shields.io/badge/Qt-PyQt5-green?style=flat&logo=qt&logoColor=white)
 
